@@ -128,6 +128,7 @@
 ## 參考來源
 
 - [星島日報 - Canvas系統遭入侵（原報導）](https://www.stheadline.com/society/3570409/)
+- [網上平台Canvas遭黑客入侵 疑外洩學生與教師資料 2.75億人陷風險](https://www.stheadline.com/realtime-world/3570182/)
 - Instructure 官方狀態頁（持續更新）
 - BleepingComputer、EdScoop、Inside Higher Ed 等全球報導
 - 香港私隱專員公署相關指引
