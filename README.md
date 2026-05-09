@@ -1,6 +1,6 @@
 # privacy_case_study_hk
 
-# DC Agent Audit B2B
+## DC Agent Audit B2B
 
 **企業級 AI Agent 與文件(數字資產)安全驗證及審計平台**
 
