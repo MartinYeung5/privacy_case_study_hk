@@ -129,6 +129,7 @@
 
 - [星島日報 - Canvas系統遭入侵（原報導）](https://www.stheadline.com/society/3570409/)
 - [網上平台Canvas遭黑客入侵 疑外洩學生與教師資料 2.75億人陷風險](https://www.stheadline.com/realtime-world/3570182/)
+- [Canvas系統遭入侵︱再波及兩間院校！城大及藝術學院向私隱署通報 分別2.8萬及71人受影響](https://www.stheadline.com/society/3571364/Canvas%E7%B3%BB%E7%B5%B1%E9%81%AD%E5%85%A5%E4%BE%B5%E5%86%8D%E6%B3%A2%E5%8F%8A%E5%85%A9%E9%96%93%E9%99%A2%E6%A0%A1%E5%9F%8E%E5%A4%A7%E5%8F%8A%E8%97%9D%E8%A1%93%E5%AD%B8%E9%99%A2%E5%90%91%E7%A7%81%E9%9A%B1%E7%BD%B2%E9%80%9A%E5%A0%B1-%E5%88%86%E5%88%A528%E8%90%AC%E5%8F%8A71%E4%BA%BA%E5%8F%97%E5%BD%B1%E9%9F%BF)
 - Instructure 官方狀態頁（持續更新）
 - BleepingComputer、EdScoop、Inside Higher Ed 等全球報導
 - 香港私隱專員公署相關指引
